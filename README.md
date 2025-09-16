@@ -13,3 +13,6 @@ def add(a, b):
     return a + b
 # Commit 6
 print("2 + 3 =", add(2, 3))
+# Commit 7
+def greet(name):
+    return f"Hello, {name}!"
