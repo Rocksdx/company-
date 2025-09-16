@@ -16,3 +16,5 @@ print("2 + 3 =", add(2, 3))
 # Commit 7
 def greet(name):
     return f"Hello, {name}!"
+# Commit 8
+print(greet("GitHub"))
