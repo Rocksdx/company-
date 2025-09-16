@@ -11,3 +11,5 @@ for i in range(3):
 # Commit 5
 def add(a, b):
     return a + b
+# Commit 6
+print("2 + 3 =", add(2, 3))
