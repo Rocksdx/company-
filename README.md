@@ -3,3 +3,5 @@ test.py
 print("Hello, World!")
 # Commit 2
 print("This is my second commit.")
+# Commit 3
+print("Learning GitHub is fun!")
