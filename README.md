@@ -8,3 +8,6 @@ print("Learning GitHub is fun!")
 # Commit 4
 for i in range(3):
     print("Loop number:", i)
+# Commit 5
+def add(a, b):
+    return a + b
