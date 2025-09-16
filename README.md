@@ -18,3 +18,6 @@ def greet(name):
     return f"Hello, {name}!"
 # Commit 8
 print(greet("GitHub"))
+# Commit 9
+numbers = [1, 2, 3, 4, 5]
+print("Sum:", sum(numbers))
